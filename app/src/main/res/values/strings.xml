@@ -1,0 +1,359 @@
+<resources>
+    <string name="app_name">DITO (Discover Indonesia Tour)</string>
+    <string name="show_all">Tampilkan Semua</string>
+    <string name="judulbandung">Bandung</string>
+    <string name="judulgarut">Garut</string>
+    <string name="judulyogyakarta">Yogyakarta</string>
+    <string name="judulsemarang">Semarang</string>
+    <string name="judulsurabaya">Surabaya</string>
+    <string name="judulborobudur">Candi Borobudur</string>
+    <string name="judulkomodo">Taman Nasional Komodo</string>
+    <string name="judulleuser">Taman Nasional Leuser</string>
+    <string name="judulramayana">Sendratari Ramayana</string>
+    <string name="judulbatik">Batik Pekalongan</string>
+    <string name="judulsekaten">Sekaten</string>
+    <string name="judulkecak">Tari Kecak</string>
+    <string name="judulgili">Gili Trawangan</string>
+    <string name="judultangkuban">Tangkuban Perahu</string>
+    <string name="juduljatimpark">Jawa Timur Park</string>
+    <string name="judulbunaken">Bunaken Under Sea</string>
+    <string name="judulfatahillah">Museum Fatahillah</string>
+    <string name="judulkeraton">Keraton Yogyakarta</string>
+    <string name="judulambarawa">Museum Kereta Ambarawa</string>
+    <string name="judullawangsewu">Lawang Sewu</string>
+    <string name="judulsangiran">Situs Sangiran</string>
+
+    <string name="kotafavorit">Kota Favorit</string>
+    <string name="kotakembang">Kota Kembang</string>
+    <string name="swissvanjava">Swiss van Java</string>
+    <string name="kotagudeg">Kota Gudeg</string>
+    <string name="situskebudayaan">Situs Kebudayaan </string>
+    <string name="jawatengah">Jawa Tengah</string>
+    <string name="ntt">Nusa Tenggara Timur</string>
+    <string name="yogyakarta">Yogyakarta</string>
+    <string name="bali">Bali</string>
+    <string name="kotalumpia">Kota Lumpia</string>
+    <string name="kotapahlawan">Kota Pahlawan</string>
+    <string name="pariwisata">Pariwisata</string>
+    <string name="ntb">Nusa Tenggara Barat</string>
+    <string name="jawabarat">Jawa Barat</string>
+    <string name="jawatimur">Jawa Timur</string>
+    <string name="situssejarah">Situs Sejarah</string>
+    <string name="sumatera">Sumatera</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="sulut">Sulawesi Utara</string>
+    <string name="sample_detailed_description">Detailed description of the attraction</string>
+    <string name="show_map">Tampilkan di Maps</string>
+
+    <string name="deskripsisurabaya">
+        Cerita Sejarah Kota Surabaya kental dengan nilai kepahlawanan. Sejak awal berdirinya, kota ini memiliki sejarah panjang yang terkait dengan nilai-nilai heroisme.
+        Istilah Surabaya terdiri dari kata sura (berani) dan baya (bahaya), yang kemudian secara harfiah diartikan sebagai berani menghadapi bahaya yang datang.
+        Nilai kepahlawanan tersebut salah satunya mewujud dalam peristiwa pertempuran antara Raden Wijaya dan Pasukan Mongol pimpinan Kubilai Khan di tahun 1293.
+        Begitu bersejarahnya pertempuran tersebut hingga tanggalnya diabadikan menjadi tanggal berdirinya Kota Surabaya hingga saat ini, yaitu 31 Mei.
+        Heroisme masyarakat Surabaya paling tergambar dalam pertempuran 10 Nopember 1945. Arek-arek Suroboyo, sebutan untuk orang Surabaya,
+        berbekal bambu runcing berani melawan pasukan sekutu yang memiliki persenjataan canggih. Puluhan ribu warga meninggal membela tanah air.
+        Peristiwa heroik ini kemudian diabadikan sebagai peringatan Hari Pahlawan. Sehingga membuat Surabaya dilabeli sebagai Kota Pahlawan.
+        Sejarah Surabaya juga berkaitan dengan aktivitas perdagangan. Secara geografis Surabaya memang diciptakan sebagai kota dagang dan pelabuhan.
+        Surabaya merupakan pelabuhan gerbang utama Kerajaan Majapahit. Letaknya yang dipesisir utara Pulau Jawa membuatnya berkembang menjadi sebuah pelabuhan penting di zaman Majapahit pada abad ke - 14.
+        Berlanjut pada masa kolonial, letak geografisnya yang sangat strategis membuat pemerintah Kolonial Belanda pada abad ke - 19, memposisikannya sebagai pelabuhan
+        utama yang berperan sebagai collecting centers dari rangkaian terakhir kegiatan pengumpulan hasil produksi perkebunan di ujung Timur Pulau Jawa, yang ada di daerah pedalaman untuk diekspor ke Eropa
+    </string>
+
+    <string name="deskripsisemarang">
+        Secara geografis. Semarang terletak antara 6 50 -710 Lintang Selatan dan garis 109 35-110 50 Bujur Timur, dengan batas-batas sebelah Utara dengan Laut Jawa,
+        sebelah Timur dengan Kabupaten Demak, sebelah Barat dengan Kabupaten Kendal, dan sebelah Selatan dengan Kabupaten Semarang. Suhu Udara berkisar antara 20-30 Celcius dan suhu rata-rata 27 Celcius.
+        Kota Semarang memiliki luas 373,70 km atau 37.366.836 Ha terdiri dari 16 Kecamatan dan 117 kelurahan. Penduduknya sangat heterogen terdiri darl campuran beberapa etnis, Jawa, Cina, Arab dan Keturunan.
+        Juga etnis lain dari beberapa daerah di Indonesia yang datang di Semarang untuk berusaha, menuntut ilmu maupun menetap selamanya di Semarang. Mayoritas penduduk memeluk agama Islam,
+        berikutnya adalah Kristen, Katholik Hindu dan Budha. Mata pencaharian penduduk beraneka ragam, terdiri dari pedagang, pegawal pemerintah, pekerjaan pabrik dan petani.
+        Kendati warganya sangat heterogen, namun kehidupan sosial masyarakat Kota Semarang sangat damai. Toleransi kehidupan umat beragama sangat dijunjung tinggi.
+        Inilah faktor yang sangat mendukung kondisi keamanan sehingga Semarang menjadi kota Indonesia yang sangat baik untuk pengembangan investasi dan bisnis.
+        Sebagai kota Metropolitan dan Ibu Kota Propinsi Jawa Tongah, Semarang juga memiliki fasilitas yang sangat memadai, Disini terdapat fasilitas pelabuhan, fasilitas pendidikan,
+        fasilitas kesehatan, fasilitas perbelanjaan, kawasan bisnis, dll. Kota Semarang nampaknya akan terus berkembang, selain sebagai kota perdagangan juga menjadi kota jasa pariwisata.
+        Oleh karena itu, di Semarang terus bertumbuh hotel-hotel dari kelas, melati hingga bintang. Perkembangan menjadi kota jasa itu akan ditunjang sarana transportasi udara dengan
+        Ahmad Yani yang ditingkatkan statusnya menjadi Bandara Internasional, maupun transportasi darat berupa Kereta Api (KA) dan bus dengan berbagai jurusan.
+    </string>
+
+    <string name="deskripsiyogyakarta">
+        Daerah Istimewa Yogyakarta keberadaannya dalam konteks historis dimulai dari sejarah berdirinya Kasultanan Ngayogyakarta Hadiningrat berdasarkan Perjanjian Giyanti 1755.
+        Berawal dari sini muncul suatu sistem pemerintahan yang teratur dan kemudian berkembang, hingga akhirnya sebagai Daerah Istimewa Yogyakarta yang merupakan suatu bagian dari
+        Negara Kesatuan Republik Indonesia (NKRI). Kasultanan Ngayogyakarta Hadiningrat didirikan pada tahun 1755 oleh Pangeran Mangkubumi yang bergelar Sultan Hamengku Buwono I,
+        sedangkan Kadipaten Pakualaman didirikan pada tahun 1813 oleh Pangeran Notokusumo (saudara Sultan Hamengku Buwono II) yang bergelar Adipati Paku Alam I.
+        Sejak berdirinya,baik Kasultanan maupun Kadipaten adalah pemerintahan kerajaan yang diakui kedaulatannya. Pada masa kolonial Belanda, pemerintahan di Kasultanan Yogyakarta
+        diatur kontrak politik yang dilakukan pada tahun 1877, 1921, dan 1940, antara Sultan dengan Pemerintah Kolonial Belanda. Hal ini menunjukkan bahwa Keraton tidak tunduk begitu saja kepada Belanda.
+        Pemerintah Hindia Belanda mengakui Kasultanan Ngayogyakarta Hadiningrat dan Kadipaten Pakualaman sebagai kerajaan yang berhak mengatur dan mengurus rumah tangga pemerintahannya sendiri yang dikenal
+        dengan istilah zilfbesturende landschappen. Kontrak politik terakhir Kasultanan Ngayogyakarta tercantum dalam Staatsblaad1941 Nomor 47, sedangkan kontrak politik Kadipaten Pakualaman dalam Staatsblaad 1941
+        Nomor 577. Pada masa pendudukan Jepang, Yogyakarta diakui sebagai Daerah Istimewa atau Kooti dengan Koo sebagai kepalanya, yakni Sri Sultan Hamengku Buwono IX. Di bawah Kooti,
+        secara struktural ada wilayah-wilayah pemerintahan tertentu dengan para pejabatnya. Setelah Proklamasi Kemerdekaan Republik Indonesia (RI), Sri Sultan Hamengku Buwono IX dan Sri Paku Alam VIII menyatakan
+        kepada Presiden RI bahwa Daerah Kasultanan Ngayogyakarta Hadiningrat dan Daerah Kadipaten Pakualaman menjadi wilayah Negara RI, bergabung menjadi satu kesatuan yang dinyatakan sebagai
+        Daerah Istimewa Yogyakarta (DIY). Sri Sultan Hamengku Buwono IX dan Sri Paku Alam VIII sebagai Kepala Daerah dan Wakil Kepala Daerah bertanggung jawab langsung kepada Presiden RI.
+        Keunikan pengalaman Yogyakarta merupakan salah satu fakta yang menjadikannya sebagai daerah istimewa. Dalam proses perkembangan pemerintahannya, Yogyakarta berproses dari
+        tipe pemerintahan feodal dan tradisional menjadi suatu pemerintahan dengan struktur modern.
+    </string>
+
+    <string name="deskripsibandung">
+        Kota Badung tidak berdiri bersamaan dengan pembentukan Kabupaten Bandung. Kota itu dibangun dengan tenggang waktu sangat jauh setelah Kabupaten Bandung berdiri.
+        Kabupaten Bandung dibentuk pada sekitar pertengahan abad ke-17 Masehi, dengan Bupati pertama tumenggung Wiraangunangun. Beliau memerintah Kabupaten bandung hingga tahun 1681.
+        Semula Kabupaten Bandung beribukota di Krapyak (sekarang Dayeuhkolot) kira-kira 11 kilometer ke arah Selatan dari pusat kota Bandung sekarang. Ketika kabupaten Bandung dipimpin oleh bupati ke-6,
+        yakni R.A Wiranatakusumah II (1794-1829) yang dijuluki "Dalem Kaum I", kekuasaan di Nusantara beralih dari Kompeni ke Pemerintahan Hindia Belanda, dengan gubernur jenderal pertama
+        Herman Willem Daendels (1808-1811). Untuk kelancaran menjalankan tugasnya di Pulau Jawa, Daendels membangun Jalan Raya Pos (Groote Postweg) dari Anyer di ujung barat
+        Jawa Barat ke Panarukan di ujung timur Jawa timur (kira-kira 1000 km). Pembangunan jalan raya itu dilakukan oleh rakyat pribumi di bawah pimpinan bupati daerah masing-masing.
+        Di daerah Bandung khususnya dan daerah Priangan umumnya, Jalan Raya pos mulai dibangun pertengahan tahun 1808, dengan memperbaiki dan memperlebar jalan yang telah ada. Di daerah Bandung sekarang,
+        jalan raya itu adalah Jalan Jenderal Sudirman - Jalan Asia Afrika - Jalan A. Yani, berlanjut ke Sumedang dan seterusnya. Untuk kelancaran pembangunan jalan raya, dan agar pejabat pemerintah
+        kolonial mudah mendatangi kantor bupati, Daendels melalui surat tanggal 25 Mei 1810 meminta Bupati Bandung dan Bupati Parakanmuncang untuk memindahkan ibukota kabupaten, masing-masing ke daerah
+        Cikapundung dan Andawadak (Tanjungsari), mendekati Jalan Raya Pos. Rupanya Daendels tidak mengetahui, bahwa jauh sebelum surat itu keluar, bupati Bandung sudah merencanakan untuk memindahkan ibukota
+        Kabupaten Bandung, bahkan telah menemukan tempat yang cukup baik dan strategis bagi pusat pemerintahan. Tempat yang dipilih adalah lahan kosong berupa hutan, terletak di tepi barat Sungai Cikapundung,
+        tepi selatan Jalan Raya Pos yang sedang dibangun (pusat kota Bandung sekarang). Alasan pemindahan ibukota itu antara lain, Krapyak tidak strategis sebagai ibukota pemerintahan, karena terletak di sisi
+        selatan daerah Bandung dan sering dilanda banjir bila musim hujan. Sekitar akhir tahun 1808/awal tahun 1809, bupati beserta sejumlah rakyatnya pindah dari Krapyak mendekali lahan bakal ibukota baru.
+        Mula-mula bupati tinggal di Cikalintu (daerah Cipaganti), kemudian pindah ke Balubur Hilir, selanjutnya pindah lagi ke Kampur Bogor (Kebon Kawung, pada lahan Gedung Pakuan sekarang).
+        Tidak diketahui secara pasti, berapa lama Kota Bandung dibangun. Akan tetapi, kota itu dibangun bukan atas prakarsa Daendels, melainkan atas prakarsa Bupati Bandung,
+        bahkan pembangunan kota itu langsung dipimpin oleh bupati. Dengan kata lain, Bupati R. A. Wiranatakusumah II adalah pendiri (the founding father) kota Bandung.
+        Kota Bandung diresmikan sebagai ibukota baru Kabupaten Bandung dengan surat keputusan tanggal 25 September 1810.
+    </string>
+
+    <string name="deskripsigarut">
+        Sejarah Kabupaten Garut berawal dari pembubaran Kabupaten Limbangan pada tahun 1811 oleh Daendels dengan alasan produksi kopi dari daerah Limbangan menurun hingga titik paling rendah nol
+        dan bupatinya menolak perintah menanam nila (indigo). Pada tanggal 16 Pebruari 1813, Letnan Gubernur di Indonesia yang pada waktu itu dijabat oleh Raffles,
+        telah mengeluarkan Surat Keputusan tentang pembentukan kembali Kabupaten Limbangan yang beribu kota di Suci. Untuk sebuah Kota Kabupaten, keberadaan Suci dinilai tidak memenuhi
+        sebab daerah tersebut kawasannya cukup sempit. Berkaitan dengan hal tersebut, Bupati Limbangan Adipati Adiwijaya (1813-1831) membentuk panitia untuk mencari tempat yang cocok bagi Ibu Kota Kabupaten.
+        Pada awalnya, panitia menemukan Cimurah, sekitar 3 Km sebelah Timur Suci (Saat ini kampung tersebut dikenal dengan nama Kampung Pidayeuheun). Akan tetapi di tempat tersebut air bersih sulit diperoleh
+        sehingga tidak tepat menjadi Ibu Kota. Selanjutnya panitia mencari lokasi ke arah Barat Suci, sekitar 5 Km dan mendapatkan tempat yang cocok untuk dijadikan Ibu Kota. Selain tanahnya subur,
+        tempat tersebut memiliki mata air yang mengalir ke Sungai Cimanuk serta pemandangannya indah dikelilingi gunung, seperti Gunung Cikuray, Gunung Papandayan, Gunung Guntur, Gunung Galunggung, G
+        unung Talaga Bodas dan Gunung Karacak.  Saat ditemukan mata air berupa telaga kecil yang tertutup semak belukar berduri (Marantha), seorang panitia "kakarut" atau tergores tangannya sampai berdarah.
+        Dalam rombongan panitia, turut pula seorang Eropa yang ikut membenahi atau "ngabaladah" tempat tersebut. Begitu melihat tangan salah seorang panitia tersebut berdarah, langsung bertanya : "Mengapa berdarah?" Orang yang tergores menjawab,
+        tangannya kakarut. Orang Eropa atau Belanda tersebut menirukan kata kakarut dengan lidah yang tidak fasih sehingga sebutannya menjadi "gagarut".
+        Sejak saat itu, para pekerja dalam rombongan panitia menamai tanaman berduri dengan sebutan "Ki Garut" dan telaganya dinamai "Ci Garut".
+        (Lokasi telaga ini sekarang ditempati oleh bangunan SLTPI, SLTPII, dan SLTP IV Garut). Dengan ditemukannya Ci Garut, daerah sekitar itu dikenal dengan nama Garut..
+        Cetusan nama Garut tersebut direstui oleh Bupati Kabupaten Limbangan Adipati Adiwijaya untuk dijadikan Ibu Kota Kabupaten Limbangan.  Pada tanggal 15 September 1813
+        dilakukan peletakkan batu pertama pembangunan sarana dan prasarana ibukota, seperti tempat tinggal, pendopo, kantor asisten residen, mesjid, dan alun-alun. Di depan pendopo,
+        antara alun-alun dengan pendopo terdapat "Babancong" tempat Bupati beserta pejabat pemerintahan lainnya menyampaikan pidato di depan publik. Setelah tempat-tempat tadi selesai dibangun,
+        Ibu Kota Kabupaten Limbangan pindah dari Suci ke Garut sekitar Tahun 1821. Berdasarkan Surat Keputusan Gubernur Jenderal No: 60 tertanggal 7 Mei 1913, nama Kabupaten Limbangan diganti menjadi Kabupaten Garut
+        dan beribu kota Garut pada tanggal 1 Juli 1913. Pada waktu itu, Bupati yang sedang menjabat adalah RAA Wiratanudatar (1871-1915). Kota Garut pada saat itu meliputi tiga desa, yakni Desa Kota Kulon,
+        Desa Kota Wetan, dan Desa Margawati. Kabupaten Garut meliputi Distrik-distrik Garut, Bayongbong, Cibatu, Tarogong, Leles, Balubur Limbangan, Cikajang, Bungbulang dan Pameungpeuk. Pada tahun 1915,
+        RAA Wiratanudatar digantikan oleh keponakannya Adipati Suria Karta Legawa (1915-1929). Pada masa pemerintahannya tepatnya tanggal 14 Agustus 1925, berdasarkan keputusan Gubernur Jenderal,
+        Kabupaten Garut disahkan menjadi daerah pemerintahan yang berdiri sendiri (otonom). Wewenang yang bersifat otonom berhak dijalankan Kabupaten Garut dalam beberapa hal, yakni berhubungan dengan masalah pemeliharaan jalan-jalan,
+        jembatan-jembatan, kebersihan, dan poliklinik. Selama periode 1930-1942, Bupati yang menjabat di Kabupaten Garut adalah Adipati Moh. Musa Suria Kartalegawa. Ia diangkat menjadi Bupati Kabupaten Garut pada tahun 1929 menggantikan ayahnya Adipati Suria Karta Legawa (1915-1929).
+    </string>
+
+    <string name="deskripsiborobudur">
+        Dinasti Sailendra membangun peninggalan Budha terbesar di dunia antara 780-840 Masehi. Dinasti Sailendra merupakan dinasti yang berkuasa pada masa itu. Peninggalan ini dibangun sebagai
+        tempat pemujaan Budha dan tempat ziarah. Tempat ini berisi petunjuk agar manusia menjauhkan diri dari nafsu dunia dan menuju pencerahan dan kebijaksanaan menurut Buddha.
+        Peninggalan ini ditemukan oleh Pasukan Inggris pada tahun 1814 dibawah pimpinan Sir Thomas Stanford Raffles. Area candi berhasil dibersihkan seluruhnya pada tahun 1835.
+        Borobudur dibangun dengan gaya Mandala yang mencerminkan alam semesta dalam kepercayaan Buddha. Struktur bangunan ini berbentuk kotak dengan empat pintu masuk dan titik pusat berbentuk lingkaran.
+        Jika dilihat dari luar hingga ke dalam terbagi menjadi dua bagian yaitu alam dunia yang terbagi menjadi tiga zona di bagian luar, dan alam Nirwana di bagian pusat.
+    </string>
+
+    <string name="deskripsikomodo">
+        Taman Nasional Komodo terletak di tengah kepulauan Indonesia, antara pulau Sumbawa dan Flores. Didirikan pada tahun 1980, awalnya tujuan utama Taman Nasional adalah
+        untuk melestarikan komodo yang unik (Varanus komodoensis) dan habitatnya. Namun, selama bertahun-tahun, tujuan Taman Nasional telah meluas untuk melindungi seluruh keanekaragaman hayati,
+        baik darat maupun laut. Pada tahun 1986, Taman Nasional dinyatakan sebagai Situs Warisan Dunia dan Cagar Manusia dan Biosfer oleh UNESCO, keduanya merupakan indikasi pentingnya biologis Taman Nasional.
+        Taman Nasional Komodo mencakup tiga pulau utama: Komodo, Rinca dan Padar, serta banyak pulau kecil yang menciptakan total luas permukaan (laut dan darat) 1817km (ekstensi/perluasan yang diusulkan dengan
+        total luas permukaan hingga 2.321 km2). Selain sebagai rumah bagi komodo, Taman Nasional ini menyediakan tempat perlindungan bagi banyak spesies darat terkenal lainnya seperti unggas scrub berkaki oranye,
+        tikus endemik, dan rusa Timor. Selain itu, Taman Nasional ini termasuk salah satu lingkungan laut terkaya termasuk terumbu karang, bakau, padang lamun, gunung bawah laut, dan teluk semi tertutup.
+        Habitat ini menampung lebih dari 1.000 spesies ikan, sekitar 260 spesies karang pembentuk terumbu, dan 70 spesies Bunga karang. Dugong, hiu, pari manta, setidaknya 14 spesies paus, lumba-lumba,
+        dan penyu juga menjadikan Taman Nasional Komodo sebagai rumah mereka.
+    </string>
+
+    <string name="deskripsileuser">
+        Taman Nasional Gunung Leuser biasa disingkat TNGL adalah salah satu Kawasan Pelestarian Alam
+        di Indonesia seluas 1.094.692 hektare yang secara administrasi pemerintahan terletak di
+        Provinsi Aceh dan Sumatera Utara. Provinsi Aceh yang terdeliniasi TNGL meliputi Kabupaten Subulussalam,
+        Aceh Selatan, Aceh Singkil, Aceh Tengah, Aceh Tenggara, Gayo Lues, Bener Meriah, Aceh Tamiang,
+        sedangkan Provinsi Sumatera Utara yang terdeliniasi TNGL meliputi Kabupaten Dairi, Karo, dan Langkat.
+        Taman nasional ini mengambil nama dari Gunung Leuser yang menjulang tinggi dengan ketinggian 3404
+        meter di atas permukaan laut di Aceh. Taman nasional ini meliputi ekosistem asli dari pantai sampai pegunungan tinggi
+        yang diliputi oleh hutan lebat khas hujan tropis, dikelola dengan sistem zonasi yang dimanfaatkan untuk tujuan penelitian,
+        ilmu pengetahuan, pendidikan, menunjang budidaya, pariwisata, dan rekreasi.
+    </string>
+
+    <string name="deskripsiramayana">
+       Sendratari Ramayana Prambanan merupakan sebuah pertunjukan yang menggabungkan tari dan drama tanpa dialog,
+        diangkat dari cerita Ramayana dan dipertunjukkan di dekat Candi Prambanan di Pulau Jawa, Indonesia. Sendratari
+        Ramayana Prambanan merupakan sendratari yang paling rutin mementaskan Sendratari Ramayana sejak 1961. Cerita Ramayana
+        berdasarkan epos Hindu diadaptasi dengan budaya Jawa membuat Sendratari Ramayana menjadi tarian yang unik.
+        Lebih dari 200 penari profesional dan musisi lokal berpartisipasi dalam Sendratari Ramayana yang bertempat di
+        panggung terbuka dengan Candi Prambanan sebagai latar belakang. Sendratari Ramayana juga diceritakan di relief pada Candi Siwa.
+        Cerita Ramayana adalah perjalan Rama dalam menyelamatkan istrinya Sita (di Jawa biasa disebut Sinta) yang diculik oleh raja Negara Alengka,
+        Rahwana. Sendratari Ramayana Prambanan biasa digelar tiap hari Selasa, Kamis, dan Sabtu, pementasan di panggung terbuka (Open Stage) hanya pada bulan Kemarau,
+        di luar itu pementasan diadakan di panggung tertutup(Trimurti Stage).
+    </string>
+
+    <string name="deskripsibatik">
+        Batik adalah kain bergambar yang pembuatannya secara khusus dengan menuliskan atau menerakan malam pada kain itu, kemudian pengolahannya diproses dengan cara tertentu yang memiliki kekhasan.
+        Batik Indonesia, sebagai keseluruhan teknik, teknologi, serta pengembangan motif dan budaya yang terkait, oleh UNESCO telah ditetapkan sebagai Warisan Kemanusiaan untuk Budaya Lisan dan Nonbendawi
+        (Masterpieces of the Oral and Intangible Heritage of Humanity) sejak 2 Oktober 2009.
+    </string>
+
+    <string name="deskripsisekaten">
+        Sekaten  adalah rangkaian kegiatan tahunan sebagai peringatan ulang tahun Nabi Muhammad yang diadakan oleh keraton Surakarta dan Yogyakarta. Rangkaian perayaan secara resmi berlangsung dari
+        tanggal 5 dan berakhir pada tanggal 12 Mulud penanggalan Jawa (dapat disetarakan dengan Rabiul Awal penanggalan Hijriah). Beberapa acara penting perayaan ini adalah dimainkannya gamelan pusaka
+        di halaman Masjid Agung masing-masing keraton, pembacaan riwayat hidup Nabi Muhammad dan rangkaian pengajian di serambi Masjid Agung dan, puncaknya, Garebeg Mulud sebagai bentuk syukur pihak istana
+        dengan keluarnya sejumlah gunungan untuk diperebutkan oleh masyarakat.
+    </string>
+
+    <string name="deskripsikecak">
+        Kecak adalah pertunjukan dramatari seni khas Bali yang lebih utama menceritakan mengenai Ramayana dan
+        dimainkan terutama oleh laki-laki. Tarian ini dipertunjukkan oleh banyak (puluhan atau lebih) penari
+        laki-laki yang duduk berbaris melingkar dan dengan irama tertentu menyerukan "cak" dan mengangkat kedua lengan,
+        menggambarkan kisah Ramayana saat barisan kera membantu Rama melawan Rahwana. Namun, Kecak berasal dari ritual sanghyang,
+        yaitu tradisi tarian yang penarinya akan berada pada kondisi tidak sadar, melakukan komunikasi dengan Tuhan atau roh para leluhur dan kemudian menyampaikan harapan-harapannya kepada masyarakat.
+        Para penari yang duduk melingkar tersebut mengenakan kain kotak-kotak seperti papan catur melingkari pinggang mereka.
+        Selain para penari itu, ada pula para penari lain yang memerankan tokoh-tokoh Ramayana seperti Rama, Shinta, Rahwana, Hanoman, dan Sugriwa.
+    </string>
+
+    <string name="deskripsigili">
+        Gili Trawangan adalah yang terbesar dari ketiga pulau kecil atau gili yang terdapat di sebelah barat laut Lombok.
+        Trawangan juga satu-satunya gili yang ketinggiannya di atas permukaan laut cukup signifikan.
+        Dengan panjang 3 km dan lebar 2 km, Trawangan berpopulasi sekitar 800 jiwa. Di antara ketiga gili tersebut,
+        Trawangan memiliki fasilitas untuk wisatawan yang paling beragam; kedai "Tîr na Nôg" mengklaim bahwa
+        Trawangan adalah pulau terkecil di dunia yang ada bar Irlandia-nya. Bagian paling padat penduduk adalah sebelah timur pulau ini.
+        Trawangan punya nuansa "pesta" lebih daripada Gili Meno dan Gili Air, karena banyaknya pesta sepanjang malam yang setiap malamnya
+        dirotasi acaranya oleh beberapa tempat keramaian. Aktivitas yang populer dilakukan para wisatawan di Trawangan adalah scuba diving
+        (dengan sertifikasi PADI), snorkeling (di pantai sebelah timur laut), bermain kayak, dan berselancar. Ada juga beberapa tempat bagi para wisatawan belajar berkuda mengelilingi pulau.
+        Di Gili Trawangan (begitu juga di dua gili yang lain), tidak terdapat kendaraan bermotor, karena tidak diizinkan oleh aturan lokal.
+        Sarana transportasi yang lazim adalah sepeda (disewakan oleh masyarakat setempat untuk para wisatawan) dan cidomo, kereta kuda
+        yang umum dijumpai di Lombok. Untuk bepergian ke dan dari ketiga gili itu, penduduk biasanya menggunakan kapal bermotor dan speedboat.
+        Kelebihan Gili Trawangan dibandingkan dengan pantai lain adalah kita dapat menikmati sunset dan juga sunrise sekaligus di pantai ini!
+        Hal ini terjadi karena Gili Trawangan memiliki pantai yang menghadap timur dan menghadap barat, dan jaraknya tidak terlalu jauh.
+        Sehingga baik sunrise maupun sunset dapat kita nikmati di pantai ini. Di Gili Trawangan juga kita dapat melihat kesenian bela
+        diri tradisional yang bernama presean atau stick fighting yang biasanya dipertontonkan disekitar pasar seni Gili Trawangan.
+        Kegiatan paling favorit dari para wisatawan di Gili ini yaitu Scuba Diving, Snorkeling, bermain kayak, dan berselancar.
+    </string>
+
+    <string name="deskripsitangkuban">
+        Gunung Tangkuban adalah salah satu gunung yang terletak di Provinsi Jawa Barat, Indonesia. Sekitar 20 km ke arah
+        utara Kota Bandung, dengan rimbun pohon pinus dan hamparan kebun teh di sekitarnya, Gunung Tangkuban Perahu mempunyai ketinggian setinggi 2.084 meter.
+        Asal usul Gunung Tangkuban Perahu dikaitkan dengan legenda Sangkuriang, yang dikisahkan jatuh cinta kepada ibunya,
+        Dayang Sumbi/Rarasati. Untuk menggagalkan niat anaknya menikahinya, Dayang Sumbi mengajukan syarat supaya Sangkuriang
+        membuat sebuah telaga dan sebuah perahu dalam semalam. Ketika usahanya gagal, Sangkuriang marah dan menendang perahu
+        itu sehingga mendarat dalam keadaan terbalik. Perahu inilah yang kemudian membentuk Gunung Tangkuban Parahu.
+        Keberadaan gunung ini serta bentuk topografi Bandung yang berupa cekungan dengan bukit dan gunung di setiap sisinya
+        menguatkan teori keberadaan sebuah telaga besar yang kini merupakan kawasan Bandung. Diyakini oleh para ahli geologi bahwa kawasan dataran tinggi
+        Bandung dengan ketinggian kurang lebih 709 m di atas permukaan laut merupakan sisa dari danau besar yang terbentuk dari pembendungan Ci Tarum
+        oleh letusan gunung api purba yang dikenal sebagai Gunung Sunda dan Gunung Tangkuban Parahu merupakan sisa Gunung Sunda purba yang masih aktif.
+    </string>
+
+    <string name="deskripsijatimpark">
+        Jatim Park adalah sebuah tempat rekreasi dan taman belajar yang terdapat di Kota Batu, Jawa Timur.
+        Objek wisata ini berada sekitar 20 km barat Kota Malang, dan kini menjadi salah satu icon wisata Jawa Timur.
+        Objek wisata ini memiliki 36 wahana, di antaranya kolam renang raksasa (dengan latar belakang patung Ken Dedes,
+        Ken Arok, dan Mpu Gandring), spinning coaster, dan drop zone. Wahana pendidikan yang menjadi pusat
+        perhatian di antaranya adalah Volcano dan Galeri Nusantara yang juga terdapat tanaman agro, diorama binatang langka,
+        dan miniatur candi-candi.jatim park 1 beralamat di jl.kartika no.2,yg berdekatan dengan Klub Bunga
+    </string>
+
+    <string name="deskripsibunaken">
+        Bunaken adalah sebuah pulau seluas 8,08 km² di Teluk Manado, yang terletak di utara pulau Sulawesi,
+        Indonesia. Pulau ini merupakan bagian dari kota Manado, ibu kota provinsi Sulawesi Utara, Indonesia.
+        Pulau Bunaken dapat di tempuh dengan kapal cepat (speed boat) atau kapal sewaan dengan perjalanan
+        sekitar 30 menit dari pelabuhan kota Manado. Di sekitar pulau Bunaken terdapat taman laut Bunaken
+        yang merupakan bagian dari Taman Nasional Bunaken.
+    </string>
+
+    <string name="deskripsifatahillah">
+        Museum Fatahillah memiliki nama resmi Museum Sejarah Jakarta adalah sebuah museum yang terletak
+        di Jalan Taman Fatahillah No. 1, Jakarta Barat dengan luas lebih dari 1.300 meter persegi.
+        Bangunan ini dahulu merupakan balai kota Batavia (bahasa Belanda: Stadhuis van Batavia) yang dibangun
+        pada tahun 1707-1712 atas perintah Gubernur-Jendral Joan van Hoorn. Bangunan ini menyerupai Istana Dam di
+        Amsterdam, terdiri atas bangunan utama dengan dua sayap di bagian timur dan barat serta bangunan sanding yang
+        digunakan sebagai kantor, ruang pengadilan, dan ruang-ruang bawah tanah yang dipakai sebagai penjara.
+        Pada tanggal 30 Maret 1974, bangunan ini kemudian diresmikan sebagai Museum Fatahillah.
+    </string>
+
+    <string name="deskripsikeraton">
+        Karaton Ngayogyakarta Hadiningrat merupakan istana resmi Kesultanan Ngayogyakarta Hadiningrat yang kini berlokasi di Kota Yogyakarta,
+        Daerah Istimewa Yogyakarta, Indonesia. Walaupun kesultanan tersebut secara resmi telah menjadi bagian Republik Indonesia pada tahun 1950,
+        kompleks bangunan keraton ini masih berfungsi sebagai tempat tinggal sultan dan rumah tangga istananya yang masih menjalankan tradisi
+        kesultanan hingga saat ini. Keraton ini kini juga merupakan salah satu objek wisata di Kota Yogyakarta. Sebagian kompleks keraton merupakan
+        museum yang menyimpan berbagai koleksi milik kesultanan, termasuk berbagai pemberian dari raja-raja Eropa, replika pusaka keraton, dan gamelan.
+        Dari segi bangunannya, keraton ini merupakan salah satu contoh arsitektur istana Jawa yang terbaik, memiliki balairung-balairung mewah dan lapangan serta paviliun yang luas.
+        Keraton Yogyakarta mulai didirikan oleh Sultan Hamengku Buwono I beberapa bulan pasca Perjanjian Giyanti pada tahun 1755. Lokasi keraton ini konon adalah bekas sebuah pesanggarahan yang bernama Garjitawati.
+        Pesanggrahan ini digunakan untuk istirahat iring-iringan jenazah raja-raja Mataram (Kartasura dan Surakarta) yang akan dimakamkan di Imogiri.
+        Versi lain menyebutkan lokasi keraton merupakan sebuah mata air, Umbul Pacethokan, yang ada di tengah hutan Beringan. Sebelum menempati Keraton Yogyakarta,
+        Sultan Hamengku Buwono I berdiam di Pesanggrahan Ambar Ketawang yang sekarang termasuk wilayah Kecamatan Gamping Kabupaten Sleman.
+        Secara fisik istana para Sultan Yogyakarta memiliki tujuh kompleks inti yaitu Siti Hinggil Ler (Balairung Utara), Kamandhungan Ler (Kamandhungan Utara),
+        Sri Manganti, Kedhaton, Kamagangan, Kamandhungan Kidul (Kamandhungan Selatan), dan Siti Hinggil Kidul (Balairung Selatan).
+        Selain itu Keraton Yogyakarta memiliki berbagai warisan budaya baik yang berbentuk upacara maupun benda-benda kuno dan bersejarah.
+        Di sisi lain, Keraton Yogyakarta juga merupakan suatu lembaga adat lengkap dengan pemangku adatnya. Oleh karenanya tidaklah mengherankan
+        jika nilai-nilai filosofi begitu pula mitologi menyelubungi Keraton Yogyakarta. Dan untuk itulah pada tahun 1995 Komplek Keraton Ngayogyakarta Hadiningrat
+        dicalonkan untuk menjadi salah satu Situs Warisan Dunia UNESCO.
+    </string>
+
+    <string name="deskripsiambarawa">
+        Museum Kereta Api Ambarawa adalah sebuah stasiun kereta api kelas I yang sekarang dialihfungsikan menjadi sebuah museum serta merupakan museum perkeretaapian pertama di Indonesia.
+        Museum ini memiliki koleksi kereta api yang pernah berjaya pada zamannya. Museum ini secara administratif berada di Desa Panjang, Ambarawa, Semarang.
+        Museum yang terletak pada ketinggian +474,40 meter ini termasuk dalam Daerah Operasi IV Semarang dan dikelola oleh Unit Pusat Pelestarian dan Desain Arsitektur PT Kereta Api Indonesia
+        bekerja sama dengan Pemerintah Provinsi Jawa Tengah. Bangunan utama (stasiun) merupakan stasiun pulau. Mulanya, bangunan stasiun ini berupa bangunan berkanopi yang dibangun dari kayu jati.
+        Sejak tahun 1907, stasiun ini menggunakan arsitektur yang mirip dengan Stasiun Kedungjati dan Purwosari. Ukuran bangunan stasiun ini lebih besar daripada Kedungjati maupun Purwosari karena bentang
+        atapnya mencapai 21,75 meter sementara Kedungjati 14,65 meter dan Purwosari 13 meter. Bangunan ini terdiri atas kanopi yang memayungi bangunan utama serta jalur yang mengapitnya
+    </string>
+
+    <string name="deskripsilawangsewu">
+        Bangunan Lawang Sewu dibangun pada 27 Februari 1904 dengan nama lain Het hoofdkantor van de Nederlands-Indische Spoorweg Maatschappij
+        (Kantor Pusat NIS). Awalnya kegiatan administrasi perkantoran dilakukan di Stasiun Semarang Gudang (Samarang NIS), namun dengan berkembangnya
+        jalur jaringan kereta yang sangat pesat, mengakibatkan bertambahnya personil teknis dan tenaga administrasi yang tidak sedikit seiring berkembangnya administrasi perkantoran.
+        Masyarakat setempat menyebutnya Lawang Sewu karena bangunan tersebut memiliki pintu yang sangat banyak, meskipun kenyataannya, jumlah pintunya tidak mencapai seribu.
+        Bangunan ini memiliki banyak jendela yang tinggi dan lebar, sehingga masyarakat sering menganggapnya sebagai pintu (lawang). Bangunan kuno dan megah berlantai dua ini setelah
+        kemerdekaan dipakai sebagai kantor Djawatan Kereta Api Repoeblik Indonesia (DKARI) atau sekarang PT Kereta Api Indonesia. Selain itu pernah dipakai sebagai Kantor B
+        adan Prasarana Komando Daerah Militer (Kodam IV/Diponegoro) dan Kantor Wilayah (Kanwil) Kementerian Perhubungan Jawa Tengah. Pada masa perjuangan gedung ini memiliki
+        catatan sejarah tersendiri yaitu ketika berlangsung peristiwa Pertempuran lima hari di Semarang (14 Oktober - 19 Oktober 1945). Gedung tua ini menjadi lokasi pertempuran
+        yang hebat antara pemuda AMKA atau Angkatan Muda Kereta Api melawan Kempetai dan Kidobutai, Jepang. Maka dari itu Pemerintah Kota Semarang dengan Surat Keputusan Wali Kota Nomor.650/50/1992,
+        memasukan Lawang Sewu sebagai salah satu dari 102 bangunan kuno atau bersejarah di Kota Semarang yang patut dilindungi. Saat ini bangunan tua tersebut telah mengalami tahap konservasi
+        dan revitalisasi yang dilakukan oleh Unit Pelestarian benda dan bangunan bersejarah PT Kereta Api Persero
+    </string>
+
+    <string name="deskripsisangiran">
+        Sangiran adalah situs arkeologi di Jawa, Indonesia,Menurut laporan UNESCO (1995) "Sangiran diakui oleh para ilmuwan untuk menjadi salah satu
+        situs yang paling penting di dunia untuk mempelajari fosil manusia, disejajarkan bersama situs Zhoukoudian (Cina) Willandra Lakes (Australia), Olduvai Gorge (Tanzania), dan Sterkfontein (Afrika Selatan), dan lebih baik dalam penemuan daripada yang lain."
+        Daerah terdiri dari sekitar 56 km² (7km x 8 km). Lokasi ini terletak di Jawa Tengah, sekitar 15 kilometer sebelah utara Surakarta di lembah Sungai Bengawan Solo.
+    </string>
+    <string name="attraction_card_image_view_content_desc">ImageView displaying the attraction\'s image file</string>
+    <string name="list_item_image_view_content_desc">Image of Attraction</string>
+    <string name="list_item_right_arrow_image_content_desc">Right arrow image to move forward to the next activity</string>
+    <string name="detail_image_cd">Image of Attraction</string>
+
+    <!-- Map query strings -->
+    <string name="maplawangsewu">geo:0,0?q=lawang+sewu</string>
+    <string name="mapjatimpark">geo:0,0?q=jawa+timur+park+3</string>
+    <string name="mapsekaten">geo:0,0?q=sekaten+solo</string>
+    <string name="mapkecak">geo:0,0?q=Kecak+dance+pura+dalem+taman+kaja</string>
+    <string name="mapsurabaya">geo:0,0?q=surabaya</string>
+    <string name="mapambarawa">geo:0,0?q=museum+kereta+api+ambarawa</string>
+    <string name="mapbunaken">geo:0,0?q=bunaken</string>
+    <string name="mapsangiran">geo:0,0?q=sangiran+museum+of+ancient+man</string>
+    <string name="mapyogyakarta">geo:0,0?q=yogyakarta</string>
+    <string name="mapbandung">geo:0,0?q=Bandung</string>
+    <string name="mapsemarang">geo:0,0?q=semarang</string>
+    <string name="mappekalongan">geo:0,0?q=pekalongan</string>
+    <string name="mapkeraton">geo:0,0?q=keraton+yogyakarta</string>
+    <string name="mapkomodo">geo:0,0?q=komodo+island</string>
+    <string name="mapborobudur">geo:0,0?q=borobudur</string>
+    <string name="mapgarut">geo:0,0?q=garut</string>
+    <string name="mapgili">geo:0,0?q=gili+trawangan</string>
+    <string name="maptangkuban">geo:0,0?q=tangkuban+perahu</string>
+    <string name="mapleuser">geo:0,0?q=gunung+leuser+national+park</string>
+    <string name="mapfatahillah">geo:0,0?q=museum+fatahillah</string>
+    <string name="mapramayana">geo:0,0?q=prambanan</string>
+    <string name="title_activity_drawer">drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_bawah">menu_bawah</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="article_text"> Indonesia memiliki Keragaman budaya yang luar biasa tersebar
+        mulai dari Sabang sampai Merauke.Meskipun pemerintah sudah memasukan pelajaran kebudayan
+        Indonesia dalam kurikulum mata pelajaran Seni Budaya, akan tetapi masih banyak masyarakat
+        umum maupun siswa yang belum mengetahui bentuk dan nama dari suku, rumah adat, pakaian adat,
+        lagu daerah, sejarah, senjata, dan alat musik daerah yang ada di Indonesia.Maka dari itu kami
+        membuat suatu aplikasi berbasis android untuk mengatasi permasalahan tersebut.Kami menciptakan
+        sebuah solusi yang menarik, aplikasi tersebut bernama DITO (Discover Indonesia Tour).\n\nDITO
+        (Discover Indonesia Tour) merupakan sebuah aplikasi berbasis android yang menyediakan informasi
+        tentang negara Indonesia,informasi yang disediakan mulai dari destinasi wisata yang ada di
+        Indonesia, sejarah, dan kebudayaan yang berdasarkan daerah tempatnya berasal akan dikemas
+        dengan menarik dan unik. Di dalam aplikasi DITO ini juga disematkan suatu minigames tentang
+        kebudayaan Indonesia yang pastinya membuat penikmat aplikasi tidak bosan saat memakai
+        aplikasi DITO ini, selain itu tampilan UI yang interaktif diharapkan bisa membuat pemakai
+        aplikasi ini makin tertarik dan betah untuk mempelajari tentang Tanah Air tercinta ini .\n\n\nv1.0.0 </string>
+
+</resources>

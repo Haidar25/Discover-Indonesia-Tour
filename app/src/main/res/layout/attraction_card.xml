@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/attraction_card_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardPreventCornerOverlap="false"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:id="@+id/item_container_relative_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?android:selectableItemBackground"
+        android:orientation="vertical">
+
+        <!-- This ImageView hold the scaled down version of the attraction's image file -->
+
+        <ImageView
+            android:id="@+id/attraction_image_view"
+            android:layout_width="@dimen/attraction_card_image_view_width"
+            android:layout_height="@dimen/attraction_card_image_view_height"
+            android:contentDescription="@string/attraction_card_image_view_content_desc"
+            android:scaleType="centerCrop" />
+
+        <!-- This is the TextView that displays the title of the attraction -->
+        <TextView
+            android:id="@+id/attraction_title_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/horizontal_margin"
+            android:paddingLeft="@dimen/horizontal_margin"
+            android:paddingRight="@dimen/horizontal_margin"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/attraction_card_attraction_title_text_size"
+            android:typeface="sans"
+            tools:text="I am a peak" />
+
+        <!-- This is the TextView that displays the brief description of the attraction -->
+        <TextView
+            android:id="@+id/attraction_brief_desc_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/horizontal_margin"
+            android:paddingLeft="@dimen/horizontal_margin"
+            android:paddingRight="@dimen/horizontal_margin"
+            android:paddingBottom="@dimen/vertical_margin"
+            android:textSize="@dimen/attraction_card_brief_desc_text_size"
+            tools:text="brief description" />
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

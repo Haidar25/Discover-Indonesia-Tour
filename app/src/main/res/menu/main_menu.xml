@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_utama"
+        android:title="Menu Utama" />
+    <item
+        android:id="@+id/trivia_quiz"
+        android:title="Trivia Kuis" />
+    <item
+    android:id="@+id/review"
+    android:title="Pengalaman Perjalanan" />
+    <item
+        android:id="@+id/Settings"
+        android:title="Pengaturan" />
+    <item
+        android:id="@+id/about"
+        android:title="Tentang Kami" />
+    <item
+        android:id="@+id/sign_out"
+        android:title="Keluar" />
+
+</menu>

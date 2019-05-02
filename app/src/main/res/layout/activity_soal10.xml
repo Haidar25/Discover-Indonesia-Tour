@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Upacara adat pada gambar berikut berasal dari:"
+        android:textColor="@android:color/black"
+        android:textSize="?attr/fontSize"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="176dp"
+        android:layout_height="232dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="115dp"
+        android:layout_marginLeft="115dp"
+        android:layout_marginEnd="105dp"
+        android:layout_marginRight="105dp"
+        android:layout_marginBottom="8dp"
+        android:src="@drawable/bali" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="234dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginLeft="41dp"
+        android:layout_marginTop="187dp"
+        android:layout_marginEnd="121dp"
+        android:layout_marginRight="121dp">
+
+        <RadioButton
+            android:id="@+id/radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radioGroup"
+            android:layout_toStartOf="@+id/radioGroup"
+            android:layout_toLeftOf="@+id/radioGroup"
+            android:foreground="?attr/selectableItemBackground"
+            android:onClick="onRadioButton"
+            android:text="Bandung"
+            android:textSize="?attr/fontSize"/>
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radioButton"
+            android:layout_alignStart="@+id/radioButton"
+            android:layout_alignLeft="@+id/radioButton"
+            android:layout_marginTop="36dp"
+            android:foreground="?attr/selectableItemBackground"
+            android:onClick="onRadioButton"
+            android:text="Bali"
+            android:textSize="?attr/fontSize"/>
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radioButton2"
+            android:layout_alignStart="@+id/radioButton2"
+            android:layout_alignLeft="@+id/radioButton2"
+            android:layout_marginTop="26dp"
+            android:foreground="?attr/selectableItemBackground"
+            android:onClick="onRadioButton"
+            android:text="Bogor"
+            android:textSize="?attr/fontSize"/>
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radioButton3"
+            android:layout_alignStart="@+id/radioButton3"
+            android:layout_alignLeft="@+id/radioButton3"
+            android:layout_marginTop="39dp"
+            android:foreground="?attr/selectableItemBackground"
+            android:onClick="onRadioButton"
+            android:text="Balla"
+            android:textSize="?attr/fontSize"/>
+
+    </RadioGroup>
+
+</RelativeLayout>

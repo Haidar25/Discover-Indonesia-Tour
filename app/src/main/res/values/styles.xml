@@ -1,0 +1,72 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="backgroundcolor">@android:color/white</item>
+        <item name="cardbackgroundcolor">@android:color/white</item>
+        <item name="textcolor">@android:color/black</item>
+        <item name="fontSize">20sp</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="DarkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryDark">#000</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="backgroundcolor">#303030</item>
+        <item name="cardbackgroundcolor">#424242</item>
+        <item name="textcolor">@color/tulisan</item>
+        <item name="fontSize">20sp</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+    </style>
+    <style name="bigfontdark" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryDark">#000</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="backgroundcolor">#303030</item>
+        <item name="cardbackgroundcolor">#424242</item>
+        <item name="textcolor">@android:color/white</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+        <item name="fontSize">30sp</item>
+
+    </style>
+    <style name="bigfontwhite" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="backgroundcolor">@android:color/white</item>
+        <item name="cardbackgroundcolor">@android:color/white</item>
+        <item name="textcolor">@android:color/black</item>
+        <item name="fontSize">30sp</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+    <style name="BigTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="fontSize">30dp</item>
+    </style>
+
+    <style name="NormalTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="fontSize">20dp</item>
+    </style>
+
+</resources>
+

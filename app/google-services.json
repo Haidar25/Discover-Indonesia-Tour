@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "235888210459",
+    "firebase_url": "https://dito-8462c.firebaseio.com",
+    "project_id": "dito-8462c",
+    "storage_bucket": "dito-8462c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235888210459:android:6f3d37af8add38fd",
+        "android_client_info": {
+          "package_name": "com.example.android.DITO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235888210459-aji0g4kho88an5581k77t70fnirbjnfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.DITO",
+            "certificate_hash": "c8381da987bc677535de151bcf2237d89f72cfd4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4VS3XLpK6Yp71pd2C4E7Wh4JNMwjLA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235888210459-6atm71kq77at0hf07odc8ou7leg25rbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.android.DITO">
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/dito"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+        <activity android:name=".ReviewActivity">
+
+        </activity>
+        <activity android:name=".InputActivity" >
+
+        </activity>
+        <activity android:name=".SelamatdatangquizActivity" />
+        <activity android:name=".quiz.java.Soal10Activity" />
+        <activity android:name=".quiz.java.Soal9Activity" />
+        <activity android:name=".quiz.java.Soal8Activity" />
+        <activity android:name=".quiz.java.Soal7Activity" />
+        <activity android:name=".quiz.java.Soal6Activity" />
+        <activity android:name=".quiz.java.Soal5Activity" />
+        <activity android:name=".quiz.java.Soal4Activity" />
+        <activity android:name=".quiz.java.Soal3Activity" />
+        <activity android:name=".quiz.java.Soal2Activity" />
+        <activity android:name=".quiz.java.Soal1Activity" />
+        <activity android:name=".splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AttractionListActivity" />
+        <activity android:name=".AttractionActivity" />
+        <activity android:name=".AttractionPagerActivity" />
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".Masuk" />
+        <activity android:name=".Daftar" />
+        <activity android:name=".AboutusActivity"/>
+        <activity android:name=".SettingActivity"/>
+        <activity android:name=".Main2"/>
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+</manifest>
