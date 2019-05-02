@@ -57,6 +57,14 @@ public class SelamatdatangquizActivity extends AppCompatActivity {
                 Intent in = new Intent (SelamatdatangquizActivity.this, Masuk.class);
                 startActivity(in);
                 break;
+            case R.id.review:
+                Intent rv = new Intent (SelamatdatangquizActivity.this, ReviewUtama.class);
+                startActivity(rv);
+                break;
+            case R.id.catatan:
+                Intent ctt = new Intent (SelamatdatangquizActivity.this, ReviewActivity.class);
+                startActivity(ctt);
+                break;
 
         }
         return super.onOptionsItemSelected(item);

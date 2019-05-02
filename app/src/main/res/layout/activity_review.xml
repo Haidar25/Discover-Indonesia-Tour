@@ -88,7 +88,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:fontFamily="sans-serif-condensed-light"
-        android:text="Pengalaman Perjanalan Anda"
+        android:text="Catatan Pribadi Anda"
         android:textSize="25dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

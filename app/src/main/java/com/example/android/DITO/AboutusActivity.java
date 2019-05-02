@@ -36,10 +36,6 @@ public class AboutusActivity extends AppCompatActivity {
                 Intent intent = new Intent (AboutusActivity.this, SelamatdatangquizActivity.class);
                 startActivity(intent);
                 return true;
-            case R.id.review:
-                Intent in = new Intent (AboutusActivity.this, ReviewActivity.class);
-                startActivity(in);
-                return true;
             case R.id.Settings:
                 Intent inte = new Intent (AboutusActivity.this, SettingActivity.class);
                 startActivity(inte);
@@ -48,6 +44,14 @@ public class AboutusActivity extends AppCompatActivity {
                 Intent inten = new Intent (AboutusActivity.this, Masuk.class);
                 startActivity(inten);
                 return true;
+            case R.id.review:
+                Intent rv = new Intent (AboutusActivity.this, ReviewUtama.class);
+                startActivity(rv);
+                break;
+            case R.id.catatan:
+                Intent ctt = new Intent (AboutusActivity.this, ReviewActivity.class);
+                startActivity(ctt);
+                break;
         }
         return super.onOptionsItemSelected(item);
     }

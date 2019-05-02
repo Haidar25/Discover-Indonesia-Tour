@@ -43,6 +43,14 @@
         <activity android:name=".Daftar" />
         <activity android:name=".AboutusActivity"/>
         <activity android:name=".SettingActivity"/>
+        <activity android:name=".ReviewUtama"/>
+        <activity android:name=".Create_Pengalaman_Perjalanan"/>
+        <activity android:name=".Create_Berita"/>
+        <activity android:name=".DetailNews"/>
+        <activity android:name=".DetailStudentCorner"/>
+        <activity android:name=".NewsWall"/>
+        <activity android:name=".Admin"/>
+        <activity android:name=".Create_Acara"/>
         <activity android:name=".Main2"/>
     </application>
 

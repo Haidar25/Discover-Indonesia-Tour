@@ -162,11 +162,35 @@ public class Masuk extends AppCompatActivity implements TextWatcher, CompoundBut
                 }
             }.execute();
         }
+
+        final String getemail = useremail.getText().toString();
+        final String getpass = userpass.getText().toString();
+
+        if (getemail.isEmpty()){
+            msg("email harus diisi");
+            return;
+        }
+        if (getpass.isEmpty()){
+            msg("password harus diisi");
+            return;
+        }
+
+        if (getemail.equals("admin@gmail.com") && getpass.equals("dito")){
+            Intent login = new Intent(Masuk.this, Admin.class);
+            login.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+            login.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            startActivity(login);
+            return;
+        }
     }
 
     public void gotORegist(View view) {
         startActivity(new Intent(Masuk.this, Daftar.class));
         finish();
+    }
+
+    private void msg(String msg){
+        Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
     }
 
 }

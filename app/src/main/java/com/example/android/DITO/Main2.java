@@ -66,7 +66,7 @@ public class Main2 extends AppCompatActivity {
         pperjalanan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(Main2.this,ReviewActivity.class));
+                startActivity(new Intent(Main2.this,ReviewUtama.class));
             }
         });
 
@@ -88,7 +88,7 @@ public class Main2 extends AppCompatActivity {
         exit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(Main2.this,Masuk.class));
+                startActivity(new Intent(Main2.this,ReviewActivity.class));
             }
         });
     }

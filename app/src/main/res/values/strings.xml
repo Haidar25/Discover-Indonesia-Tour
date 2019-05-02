@@ -356,4 +356,15 @@
         aplikasi DITO ini, selain itu tampilan UI yang interaktif diharapkan bisa membuat pemakai
         aplikasi ini makin tertarik dan betah untuk mempelajari tentang Tanah Air tercinta ini .\n\n\nv1.0.0 </string>
 
+    <string name="title">DISCOVER INDONESIA TOUR</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="berita">Berita</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user">user</string>
+    <string name="username">Username</string>
+
 </resources>

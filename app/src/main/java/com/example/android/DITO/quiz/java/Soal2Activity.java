@@ -19,6 +19,7 @@ import com.example.android.DITO.MainActivity;
 import com.example.android.DITO.Masuk;
 import com.example.android.DITO.R;
 import com.example.android.DITO.ReviewActivity;
+import com.example.android.DITO.ReviewUtama;
 import com.example.android.DITO.SelamatdatangquizActivity;
 import com.example.android.DITO.SettingActivity;
 import com.example.android.DITO.sharedpref;
@@ -59,6 +60,14 @@ public class Soal2Activity extends AppCompatActivity {
             case R.id.sign_out:
                 Intent in = new Intent (Soal2Activity.this, Masuk.class);
                 startActivity(in);
+                break;
+            case R.id.review:
+                Intent rv = new Intent (Soal2Activity.this, ReviewUtama.class);
+                startActivity(rv);
+                break;
+            case R.id.catatan:
+                Intent ctt = new Intent (Soal2Activity.this, ReviewActivity.class);
+                startActivity(ctt);
                 break;
 
         }

@@ -8,13 +8,16 @@
         android:title="Trivia Kuis" />
     <item
     android:id="@+id/review"
-    android:title="Pengalaman Perjalanan" />
+    android:title="Komunitas" />
     <item
         android:id="@+id/Settings"
         android:title="Pengaturan" />
     <item
         android:id="@+id/about"
         android:title="Tentang Kami" />
+    <item
+        android:id="@+id/catatan"
+        android:title="Catatan Pribadi" />
     <item
         android:id="@+id/sign_out"
         android:title="Keluar" />

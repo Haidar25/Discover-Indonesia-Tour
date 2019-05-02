@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 				logout();
 				break;
 			case R.id.review:
-				Intent in = new Intent (MainActivity.this, ReviewActivity.class);
+				Intent in = new Intent (MainActivity.this, ReviewUtama.class);
 				startActivity(in);
 				return true;
 			case R.id.Settings:
@@ -59,6 +59,10 @@ public class MainActivity extends AppCompatActivity {
 			case R.id.about:
 				Intent ab = new Intent (MainActivity.this, AboutusActivity.class);
 				startActivity(ab);
+				return true;
+			case R.id.catatan:
+				Intent bc = new Intent (MainActivity.this, ReviewActivity.class);
+				startActivity(bc);
 				return true;
 		}
 		return super.onOptionsItemSelected(item);

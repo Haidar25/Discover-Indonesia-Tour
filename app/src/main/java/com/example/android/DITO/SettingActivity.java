@@ -11,6 +11,8 @@ import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.TextView;
 
+import com.example.android.DITO.quiz.java.Soal10Activity;
+
 
 public class SettingActivity extends AppCompatActivity {
 
@@ -44,14 +46,19 @@ public class SettingActivity extends AppCompatActivity {
                 Intent ab = new Intent (SettingActivity.this, AboutusActivity.class);
                 startActivity(ab);
                 return true;
-            case R.id.review:
-                Intent is = new Intent (SettingActivity.this, ReviewActivity.class);
-                startActivity(is);
-                return true;
             case R.id.sign_out:
                 Intent in = new Intent (SettingActivity.this, Masuk.class);
                 startActivity(in);
                 break;
+            case R.id.review:
+                Intent rv = new Intent (SettingActivity.this, ReviewUtama.class);
+                startActivity(rv);
+                break;
+            case R.id.catatan:
+                Intent ctt = new Intent (SettingActivity.this, ReviewActivity.class);
+                startActivity(ctt);
+                break;
+
 
         }
         return super.onOptionsItemSelected(item);

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_utama"
+        android:title="Menu Utama" />
+    <item android:id="@+id/news"
+        android:title="Tulis Berita"
+        android:icon="@drawable/ic_edit_black_24dp"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/berita"
+        android:title="Tulis Pengalaman"
+        android:icon="@drawable/ic_edit_black_24dp"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/event"
+        android:title="Tulis Acara"
+        android:icon="@drawable/ic_edit_black_24dp"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/trivia_quiz"
+        android:title="Trivia Kuis" />
+    <item
+        android:id="@+id/review"
+        android:title="Komunitas" />
+    <item
+        android:id="@+id/catatan"
+        android:title="Catatan Pribadi" />
+    <item
+        android:id="@+id/Settings"
+        android:title="Pengaturan" />
+    <item
+        android:id="@+id/aboutus"
+        android:icon="@drawable/ic_edit_black_24dp"
+        android:title="Tentang Kami"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sign_out"
+        android:title="Keluar" />
+
+</menu>
