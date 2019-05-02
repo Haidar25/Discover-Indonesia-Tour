@@ -9,11 +9,11 @@
 
     <android.support.constraint.ConstraintLayout
         android:layout_width="424dp"
-        android:layout_height="169dp">
+        android:layout_height="match_parent">
 
         <TextView
             android:id="@+id/tv_title"
-            android:layout_width="0dp"
+            android:layout_width="273dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
@@ -22,28 +22,29 @@
             android:text="TextView"
             android:textAlignment="center"
             app:layout_constraintEnd_toStartOf="@+id/btn_accept"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/tv_author"
-            android:layout_width="0dp"
+            android:layout_width="275dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
-            android:layout_marginTop="60dp"
+            android:layout_marginTop="16dp"
             android:layout_marginEnd="8dp"
             android:padding="4dp"
             android:text="TextView"
             android:textAlignment="center"
             app:layout_constraintEnd_toStartOf="@+id/btn_decline"
-            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv_title" />
 
         <Button
             android:id="@+id/btn_accept"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="31dp"
             android:layout_marginEnd="16dp"
             android:background="#4CAF50"
             android:text="accept"
@@ -56,11 +57,11 @@
         <Button
             android:id="@+id/btn_decline"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="30dp"
             android:layout_marginTop="16dp"
             android:layout_marginEnd="16dp"
-            android:text="decline"
             android:background="@color/colorPrimary"
+            android:text="decline"
             android:textColor="#ffffff"
             app:layout_constraintBottom_toBottomOf="@+id/tv_author"
             app:layout_constraintEnd_toEndOf="parent"

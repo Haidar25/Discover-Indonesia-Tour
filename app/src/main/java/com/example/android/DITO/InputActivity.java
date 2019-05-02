@@ -96,6 +96,10 @@ public class InputActivity extends AppCompatActivity {
                 Intent in = new Intent (InputActivity.this, Masuk.class);
                 startActivity(in);
                 break;
+            case R.id.review:
+                Intent rr = new Intent (InputActivity.this, ReviewUtama.class);
+                startActivity(rr);
+                break;
 
         }
         return super.onOptionsItemSelected(item);
