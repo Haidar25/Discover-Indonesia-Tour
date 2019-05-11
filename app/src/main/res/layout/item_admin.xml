@@ -9,6 +9,8 @@
 
     <android.support.constraint.ConstraintLayout
         android:layout_width="424dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
         android:layout_height="match_parent">
 
         <TextView
@@ -45,10 +47,11 @@
             android:id="@+id/btn_accept"
             android:layout_width="wrap_content"
             android:layout_height="31dp"
-            android:layout_marginEnd="16dp"
+            android:layout_marginEnd="40dp"
             android:background="#4CAF50"
             android:text="accept"
             android:textColor="#ffffff"
+            android:fontFamily="sans-serif-condensed-medium"
             app:layout_constraintBottom_toTopOf="@+id/tv_author"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="@+id/tv_title"
@@ -59,9 +62,10 @@
             android:layout_width="wrap_content"
             android:layout_height="30dp"
             android:layout_marginTop="16dp"
-            android:layout_marginEnd="16dp"
+            android:layout_marginEnd="40dp"
             android:background="@color/colorPrimary"
             android:text="decline"
+            android:fontFamily="sans-serif-condensed-medium"
             android:textColor="#ffffff"
             app:layout_constraintBottom_toBottomOf="@+id/tv_author"
             app:layout_constraintEnd_toEndOf="parent"

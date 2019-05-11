@@ -8,13 +8,13 @@
 
     <ImageView
         android:id="@+id/imgstudent"
-        android:layout_width="277dp"
+        android:layout_width="0dp"
         android:layout_height="191dp"
-        android:layout_marginStart="80dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="20dp"
         android:layout_marginEnd="8dp"
+        android:foregroundGravity="center"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/titlestudent"
         app:srcCompat="@drawable/aplot" />
@@ -36,7 +36,7 @@
 
     <TextView
         android:id="@+id/contributorstudent"
-        android:layout_width="165dp"
+        android:layout_width="match_parent"
         android:layout_height="38dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="20dp"
@@ -48,30 +48,45 @@
         app:layout_constraintTop_toBottomOf="@+id/tanggalstudent" />
 
     <TextView
-        android:id="@+id/isicornerstudent"
-        android:layout_width="324dp"
-        android:layout_height="111dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="36dp"
-        android:layout_marginEnd="8dp"
-        android:text="TextView"
-        android:gravity="center"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.661"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/contributorstudent" />
-
-    <TextView
         android:id="@+id/tanggalstudent"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="44dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="8dp"
+        android:gravity="center"
         android:text="TextView"
+        android:textStyle="italic"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imgstudent" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/isicornerstudent"
+        android:layout_width="match_parent"
+        android:layout_height="182dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="center"
+        android:text="TextView"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/contributorstudent" />
 
 </android.support.constraint.ConstraintLayout>

@@ -148,11 +148,11 @@ public class Admin extends AppCompatActivity {
             case R.id.menu_logout:
                 startActivity(newtask);
                 break;
-            case R.id.menu_setting:
-                Intent intent = new Intent(Admin.this, SettingActivity.class);
-                startActivity(intent);
-                finish();
-                break;
+//            case R.id.menu_setting:
+//                Intent intent = new Intent(Admin.this, SettingActivity.class);
+//                startActivity(intent);
+//                finish();
+//                break;
         }
         return super.onOptionsItemSelected(item);
     }
